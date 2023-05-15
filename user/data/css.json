@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "question": "What is CSS??",
+      "options": ["CSS is a style sheet language", 
+      " CSS is designed to separate the presentation and content, including layout, colors, and fonts", 
+      " CSS is the language used to style the HTML documents",
+       "All of them"],
+      "answer": "All of them",
+      "description": " CSS is a style sheet language that stands for Cascading Style Sheet and is used to style HTML documents. CSS is mainly designed to separate the presentation and content, including layout, colors, and fonts"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following CSS selectors are used to specify a group of elements?",
+      "options": [
+        "tag",
+        "id",
+        "class",
+        "both class and tag"
+      ],
+      "answer": "class",
+      "description": "Class selectors are used to specify a group of elements. Id selector specifies a particular unique element."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following has introduced text, list, box, margin, border, color, and background properties?",
+      "options": [
+        "HTML",
+        "PHP",
+        "CSS",
+        "Ajax"
+      ],
+      "answer": "CSS",
+      "description": "CSS is a style sheet language that stands for Cascading Style Sheet. CSS has introduced text, list, box, margin, border, color, and background properties."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following CSS framework is used to create a responsive design?",
+      "options": [
+        "django",
+        "rails",
+        "larawell",
+        "bootstrap"
+      ],
+      "answer": "bootstrap",
+      "description": "Bootstrap is a free and open-source collection of tools for creating websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. It aims to ease the development of dynamic websites and web applications."
+    },
+    {
+      "id": 5,
+      "question": " Which of the following CSS selector is used to specify a rule to bind a particular unique element?",
+      "options": [
+        "tag",
+        "id",
+        "class",
+        "both class and tag"],
+      "answer": "id",
+      "description": "For binding a particular unique element, id selectors are used. While for a group of elements, class selector can be used."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following CSS property sets the font size of text?",
+      "options": [
+        "font-size",
+        "text-size",
+        "text",
+        "size"
+      ],
+      "answer": "font-size",
+      "description": ""
+    }
+  ]
+  

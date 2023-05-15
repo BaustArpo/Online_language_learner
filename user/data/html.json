@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "question": "What is the full from of HTML?",
+      "options": ["Hypertext Markup Language", "Scripting Language", "Cascading style Sheet", "None of them"],
+      "answer": "Hypertext Markup Language",
+      "description": "It's full from is Hypertext Markup Language"
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct HTML element for the largest heading?",
+      "options": [
+        "h6",
+        "h1",
+        "h",
+        "body"
+      ],
+      "answer": "h1",
+      "description": "An API (Application Programming Interface) is a set of rules and protocols that specifies how different software applications can communicate with each other. APIs are commonly used to connect different systems or services together."
+    },
+    {
+      "id": 3,
+      "question": "What is the correct HTML element for inserting a line break?",
+      "options": [
+        "br",
+        "b",
+        "h",
+        "A function"
+      ],
+      "answer": "br",
+      "description": "Git is a popular version control system used in software development to track changes to code and collaborate on projects. It allows developers to work on the same codebase simultaneously and provides a history of changes made to the code over time."
+    },
+    {
+      "id": 4,
+      "question": "What is the object in HTML?",
+      "options": [
+        "A function that performs a specific task",
+        "A way to organize code into modules or packages",
+        "HTML HyperText Markup Language is used to create Web pages and tells the browser how to display them",
+        "An instance of a class that has properties and methods"
+      ],
+      "answer": "HTML HyperText Markup Language is used to create Web pages and tells the browser how to display them",
+      "description": "HTML HyperText Markup Language is used to create Web pages and tells the browser how to display them"
+    },
+    {
+      "id": 5,
+      "question": "Which programming language is commonly used for building web applications?",
+      "options": ["Java", "Python", "JavaScript", "C++"],
+      "answer": "JavaScript",
+      "description": "JavaScript is a programming language commonly used for building web applications, particularly for front-end web development. It is used to add interactivity, animations, and dynamic behavior to web pages."
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct HTML element to define emphasized text?",
+      "options": [
+        "i",
+        "em",
+        "nav",
+        "emphasis"
+      ],
+      "answer": "em",
+      "description": "A closure in JavaScript is a powerful and unique feature of the language that allows for the creation of functions that have access to variables outside of their own scope, even after the outer function has returned."
+    }
+  ]
+  
